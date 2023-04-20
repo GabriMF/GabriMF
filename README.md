@@ -1,4 +1,4 @@
-# Hey there! My name is Gabriel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm a software development student
+# Hey there! My name is Gabriel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm a web development student
 
 ![lofi-music-lofiartwork](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
 
